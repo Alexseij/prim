@@ -4,7 +4,7 @@ Concurrency implementation of prim's algorithm on Go
 
 # How to check alghorithm
 
-Enter you data into input.txt like in the following example:
+Enter your data into input.txt like in the following example:
 
 ```bash
 7 # Amount of vertices. 
